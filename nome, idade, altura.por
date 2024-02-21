@@ -2,7 +2,8 @@ programa
 {
 	
 	funcao inicio()
-	{escreva("Digite seu nome:\n")
+	{
+	escreva("Digite seu nome:\n")
 	cadeia nome
 	leia(nome)
 	escreva("Informe sua idade:\n")
@@ -19,7 +20,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 184; 
+ * @POSICAO-CURSOR = 39; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
